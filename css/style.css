@@ -1,0 +1,36 @@
+
+.liste-madde-ortala {
+    list-style-position: inside;
+}
+
+.text-purple {
+    color: rgb(100, 92, 187);
+}
+
+.marginl-10 {
+    margin-left: 10px;
+}
+
+.margint-20 {
+    margin-top: 20px;
+}
+
+.text-orange {
+    color: rgb(197, 137, 64);
+}
+
+.price-box {
+    width: 60px;
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.marginr-90 {
+    margin-right: 90px;
+}
+
+.marginb-20 {
+    margin-bottom: 20px;
+}
